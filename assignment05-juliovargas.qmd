@@ -1,0 +1,33 @@
+---
+title: Assignment 04
+subtitle: "Regression Analysis in R"
+author:
+  - name: Julio Vargas
+    affiliations:
+      - id: bu
+        name: Boston University
+        city: Boston
+        state: MA
+number-sections: true
+date: '2025-09-21'
+format:
+  html:
+    theme: cerulean
+    toc: true
+    toc-depth: 2
+    code-overflow: wrap
+  docx: default
+  pdf: default
+execute:
+  eval: true
+  jupyter: python3
+  freeze: false
+date-modified: today
+date-format: long
+jupyter: python3
+---
+
+```{python}
+
+
+```
